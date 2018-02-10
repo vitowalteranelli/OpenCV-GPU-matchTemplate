@@ -13,11 +13,11 @@ Feel free to use or extend our code, just cite this:
 
 Efficient implementation of InSAR time-consuming algorithm kernels on GPU environment
 
-@inproceedings{guerriero2015efficient,
-  title={Efficient implementation of InSAR time-consuming algorithm kernels on GPU environment},
-  author={Guerriero, Andrea and Anelli, Vito Walter and Pagliara, Alessandro and Nutricato, Raffaele and Nitti, Davide Oscar},
-  booktitle={Geoscience and Remote Sensing Symposium (IGARSS), 2015 IEEE International},
-  pages={4264--4267},
-  year={2015},
-  organization={IEEE}
-}
+@inproceedings{guerriero2015efficient,  
+  title={Efficient implementation of InSAR time-consuming algorithm kernels on GPU environment},  
+  author={Guerriero, Andrea and Anelli, Vito Walter and Pagliara, Alessandro and Nutricato, Raffaele and Nitti, Davide Oscar},  
+  booktitle={Geoscience and Remote Sensing Symposium (IGARSS), 2015 IEEE International},  
+  pages={4264--4267},  
+  year={2015},  
+  organization={IEEE}  
+}  
