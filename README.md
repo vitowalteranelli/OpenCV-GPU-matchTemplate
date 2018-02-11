@@ -9,6 +9,15 @@ The detection of the offsets that maximize the crosscorrelation between master a
 OpenCV libraries ver.2.4.9 are used for oversampling patches and cross-matching them in both CPU or GPU environment. The normalized cross-correlation is computed in the frequency domain (FFT) with the matchTemplate primitive, whose source code has been adapted in order to enable calculations on 32-bit floating-point raw data.
 Concerning the GPU implementation, all GPU cores are involved in the oversampling and matching of a single pair of master and slave patches; the process is sequentially iterated for all the selected patches in input.
 
+If you are interested in it please contact us:
+
+Vito Walter Anelli - vitowalter.anelli@poliba.it  
+[Research Lab page](http://sisinflab.poliba.it/anelli/)  
+[linkedin](https://www.linkedin.com/in/vito-walter-anelli-98a9b375/)  
+
+Alessandro Pagliara   
+[linkedin](https://www.linkedin.com/in/alessandro-pagliara-b3222896/)  
+
 Feel free to use or extend our code, just cite this:
 
 Efficient implementation of InSAR time-consuming algorithm kernels on GPU environment
